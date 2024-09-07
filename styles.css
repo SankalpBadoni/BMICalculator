@@ -1,0 +1,42 @@
+.container{
+    background-color: rgb(181, 181, 233);
+    margin-left: 400px;
+    margin-top: 50px;
+    padding-left: 40px;
+    padding-top: 30px;
+    height: 510px;
+    width: 580px;
+}
+body{
+    background-color: paleturquoise;
+}
+#height,#weight{
+    width: 150px;
+    height: 25px;
+}
+button{
+    width: 200px;
+    height: 45px;
+    margin-left: 120px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 12px;
+    border: 2px solid black;
+}
+#weight-guide{
+    margin-left: 120px;
+    font-size: large;
+}
+h1{
+    padding-left: 100px;
+   
+}
+#results {
+    font-size: 35px;
+    margin-left: 155px;
+    color: aliceblue;
+    font-weight: bold;
+  }
+  
